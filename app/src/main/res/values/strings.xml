@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Discover DoorDash</string>
+    <string name="progress_message">Loading restaurants nearby...</string>
+</resources>
